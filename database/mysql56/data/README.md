@@ -1,0 +1,1 @@
+# please leave it empty. this will be the folder that mysql store data ex. structure, data etc.
