@@ -1,1 +1,5 @@
-# please leave it empty. this will be the folder that mysql store data ex. structure, data etc.
+# Data folder
+
+docker container MySQL will use this folder for store structure , data of your database.
+
+leave it empty. it will have a file when you install your data into database.
