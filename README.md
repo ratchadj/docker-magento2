@@ -42,7 +42,7 @@ environment:
       MYSQL_USER: magento2
       MYSQL_PASSWORD: magento2
 /database/mysql56/mysql/conf.d : this file for extend MySQL configurable
-/database/mysql56/init : please put sql script for running when container start
+/database/mysql56/init : please put sql script for running script when container is starting
 
       
 ***container no.2 for redis***
