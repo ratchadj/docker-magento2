@@ -1,1 +1,5 @@
-# please put the sql scipt for set up database or leave it empty
+# Initial MySQL
+
+put sql scipt in this folder for set up database. it will execute when we container start.
+
+or leave it empty.
